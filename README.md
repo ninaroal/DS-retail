@@ -1,7 +1,8 @@
-## **DS-retail**
-Data science offers some powerfull techniques to take advantage of the customer data that the retailers own. You will find here my favorite projects in the retail sector
+# **Data Science for the retail sector**
+Data science offers some powerfull techniques to take advantage of the customer data that the retailers own. You will find some of my retail projects in this repository:
 
-1. online-shoppers-intention
+
+## **1. online-shoppers-intention.csv**
 
 **Business Case - Online Shoppers Purchasing intention:** A company wants to classify customers based on the probability of generating income when shopping on the web.
 

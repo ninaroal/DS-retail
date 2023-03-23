@@ -2,7 +2,7 @@
 Data science offers some powerfull techniques to take advantage of the customer data that the retailers own. You will find some of my retail projects in this repository:
 
 
-## **1. online-shoppers-intention.csv** __<p>See Notebook <a href="https://github.com/ninaroal/DS-retail/blob/main/online-shoppers-intention.ipynb?plain=1" title="Title"> HERE</a> </p>__
+## **1. online-shoppers-intention.csv** __<p>See Notebook <a href="https://github.com/ninaroal/DS-retail/blob/main/online_shoppers_intention.ipynb" title="Title"> HERE</a> </p>__
 
 **Business Case - Online Shoppers Purchasing intention:** A company wants to classify customers based on the probability of generating income when shopping on the web.
 
